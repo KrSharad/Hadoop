@@ -1,0 +1,7 @@
+[acadgild@localhost ~]$ cd /user/acadgild/
+bash: cd: /user/acadgild/: No such file or directory
+[acadgild@localhost ~]$ su - root
+Password:
+[root@localhost ~]# cd /
+[root@localhost ~]# mkdir -p /user/acadgild/hadoop/
+[root@localhost ~]#
