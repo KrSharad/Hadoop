@@ -1,0 +1,5 @@
+[acadgild@localhost ~]$touch /user/acadgild/hadoop/word-count.txt
+[acadgild@localhost ~]$chmod 775 /user/acadgild/hadoop/word-count.txt
+[acadgild@localhost ~]$cat > /user/acadgild/hadoop/word-count.txt
+==========================< Enter text >=========================
+
